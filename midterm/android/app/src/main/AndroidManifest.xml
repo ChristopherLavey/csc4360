@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.midterm">
+    package="com.LaveyDev.csc4360midterm.midterm">
    <application
         android:label="midterm"
         android:name="${applicationName}"
