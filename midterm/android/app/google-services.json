@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408936081707",
+    "project_id": "csc4360-midterm",
+    "storage_bucket": "csc4360-midterm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408936081707:android:b005b72d89a1a4d0ec7d6e",
+        "android_client_info": {
+          "package_name": "com.LaveyDev.midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408936081707-vtdd8vc0lk4r0a48363epi1137imll21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC87dYw9yqi6zHz2seKEDIjy45qZu8-gcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408936081707-vtdd8vc0lk4r0a48363epi1137imll21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
